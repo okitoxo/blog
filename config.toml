@@ -1,4 +1,4 @@
-baseURL = "https://okitoxo.github.io/"
+baseURL = "https://okitoxo.github.io/blog/"
 languageCode = "es-PE"
 title = "Eduardo Quiñonez"
 theme = "harbor"
