@@ -1,7 +1,26 @@
 baseURL: 'https://okitoxo.github.io/blog/'
-languageCode: es-PE
+languageCode: es
+defaultContentLanguage: es
 title: Okito Blog
 theme: papermod
+languages:
+  es:
+    languageName: "Español"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 10
 params:
   profileMode:
     enabled: true
