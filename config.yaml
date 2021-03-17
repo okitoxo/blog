@@ -1,31 +1,35 @@
-baseURL: 'https://okitoxo.github.io/blog/'
+baseURL: https://okitoxo.github.io/blog/
 languageCode: es
 defaultContentLanguage: es
 title: Okito Blog
 theme: papermod
 languages:
   es:
-    languageName: "Español"
+    languageName: Español
     weight: 1
     menu:
       main:
         - name: Publicaciones
           url: posts/
           weight: 10
-  en:
-    languageName: "English"
-    menu:
-      main:
-        - name: Posts
-          url: posts/
-          weight: 10
+#   en:
+#     languageName: English
+#     menu:
+#       main:
+#         - name: Posts
+#           url: posts/
+#           weight: 10
 params:
+  description: Hablando del dia a dia de una persona involucrada en el arte y tecnologia.
   profileMode:
-    enabled: true
-    title: Eduardo Quiñonez
+    enabled: false
+    title: Okito Blog
     subtitle: Apasionado por el arte y la tecnologia.
   socialIcons:
     - name: github
-      url: "https://github.com/okitoxo"
+      url: https://github.com/okitoxo
     - name: RsS
-      url: "index.xml"
+      url: index.xml
+  homeInfoParams:
+    title: Okito Blog
+    content: Welcome
