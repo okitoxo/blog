@@ -9,33 +9,15 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Archivo
-          url: archives
-          weight: 5
-        - name: Buscar
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: Categorias
-          url: categories/
+        - name: Publicaciones
+          url: posts/
           weight: 10
   en:
     languageName: "English"
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: Categories
-          url: categories/
+        - name: Posts
+          url: posts/
           weight: 10
 params:
   profileMode:
