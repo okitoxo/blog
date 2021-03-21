@@ -3,6 +3,7 @@ languageCode: es
 defaultContentLanguage: es
 title: Okito Blog
 theme: papermod
+googleAnalytics: G-NEQX0Y88LQ
 languages:
   es:
     languageName: Español
