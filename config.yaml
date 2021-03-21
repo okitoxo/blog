@@ -25,11 +25,14 @@ params:
     enabled: false
     title: Okito Blog
     subtitle: Apasionado por el arte y la tecnologia.
+    imageUrl: "/static/okito-logo.svg"
   socialIcons:
     - name: github
       url: https://github.com/okitoxo
-    - name: RsS
+    - name: rss
       url: index.xml
   homeInfoParams:
-    title: Okito Blog
-    content: Welcome
+    title: Inspirar y crear
+    content: >
+      Este es un espacio para compartir mis errores y aprendizajes. Hablo de tecnologia,
+      arte y mi corto tiempo de experiencias en este mundo.
