@@ -2,6 +2,7 @@
 title: "Bienvenid@"
 date: 2021-03-21T11:05:09-05:00
 draft: false
+tags: [general,personal]
 ---
 
 Compartir conocimiento mueve al mundo a crecer, a los humanos a cooperar entre si y mejorar la calidad de vida de quien comparte y quien recibe el conocimiento.
